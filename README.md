@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚧 I’m currently working on developing a Wordle Bot.<br>🧑‍💻 I’m currently learning about optimal graph traversal algorithms.<br>🔗 My most recent project was building cypher.wharton.upenn.edu.<br>🎧 Fun Fact: I DJ on the side and have previously opened for Flo Milli, Lil Yachty, and Cheat Codes at a festival.
+🚧 I’m currently working on developing a Wordle Bot.<br>🧑‍💻 I’m currently learning about optimal graph traversal algorithms.<br>🔗 My most recent project was building https://cypher.wharton.upenn.edu.<br>🎧 Fun Fact: I DJ on the side and have previously opened for Flo Milli, Lil Yachty, and Cheat Codes at a festival.
 
 
 ## 🌐 Socials:
